@@ -124,6 +124,8 @@ GROUP BY Product;
 
 
 
+![Sales Power bi short](https://github.com/user-attachments/assets/81209fef-c3d2-4a03-8765-e5b62cab0486)
+
 
 
 
