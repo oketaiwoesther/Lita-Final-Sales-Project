@@ -7,7 +7,7 @@ This data analysis project focuses on uncovering insights from last year's sales
 The main dataset for this analysis, Data_sales.csv, is an open-source file that’s readily accessible and downloadable from online platforms like Kaggle, FRED, or various other open data repositories.
 
 ### Tools Used
-- Microsoft Excel  for Data Cleaning Analysis and Visualization[Download Here](https://www.microsoft.com)
+- Microsoft Excel  for Data Cleaning Analysis and Visualization [Download Here](https://canvas.instructure.com/courses/10186984/files/folder/Capstone%20Project)
 - SQL - Structured Query Language for Querying of Data
 - Power BI - For Visualization
 - GitHub for Portfolio Building
