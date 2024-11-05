@@ -53,6 +53,8 @@ FROM [dbo].[Lita Capstone_SalesData]
 GROUP BY [Customer_Id]
 ORDER BY TotalPurchaseAmount DESC;
 ```
+### Visual Analysis and inference
+
 
 
 
