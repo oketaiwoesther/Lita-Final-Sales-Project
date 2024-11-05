@@ -115,7 +115,6 @@ GROUP BY Product;
 ```
 ### Visual Analysis and inference
 
-
 ![Excel screen1](https://github.com/user-attachments/assets/6a61df4c-5ed4-4a6f-9184-901805f6d872)
 
 
