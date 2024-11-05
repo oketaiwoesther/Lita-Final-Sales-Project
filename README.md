@@ -55,7 +55,7 @@ ORDER BY TotalPurchaseAmount DESC;
 ```
 ### Visual Analysis and inference
 
-
+![Excel Screen short](https://github.com/user-attachments/assets/2c22f1ad-2e21-4080-9cbf-1f794d56769f)
 
 
 
