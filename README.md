@@ -14,14 +14,23 @@ The primary dataset for this analysis, Data_sales.csv, is an open-source file ex
 
 ### Project Objective
 This project was designed to address the following Analysis goals;
-1. Retrieve the total sales for each product category.
-2. Find the number of sales transactions in each region.
-3. Find the highest-selling product by total sales value.
-4. Calculate total revenue per product.
-5. Calculate monthly sales totals for the current year.
-6. Find the top 5 customers by total purchase amount.
-7. Calculate the percentage of total sales contributed by each region.
-8. Identify products with no sales in the last quarter.
+
+1. Perform an initial exploration of the sales data. Use pivot tables to summarize total sales by product, region, and month
+2. Use Excel formulas to calculate metrics such as average sales per product and total revenue by region.
+3. Create any other interesting report
+4. Retrieve the total sales for each product category.
+5. Find the number of sales transactions in each region.
+6. Find the highest-selling product by total sales value.
+7. Calculate total revenue per product.
+8. Calculate monthly sales totals for the current year.
+9. Find the top 5 customers by total purchase amount.
+10. Calculate the percentage of total sales contributed by each region.
+11. Identify products with no sales in the last quarter.
+12. Create a dashboard that visualizes the insights found in Excel and SQL. The dashboard should include a sales overview, top-performing products, and regional breakdowns.
+   
+
+
+
 
 
 
