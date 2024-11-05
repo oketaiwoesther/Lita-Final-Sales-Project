@@ -6,8 +6,8 @@ This data analysis project focuses on uncovering insights from last year's sales
 ### Data Sources
 The primary dataset for this analysis, Data_sales.csv, is an open-source file exclusively available for download to members of the Ladies in Tech Africa group. It can be accessed through various online platforms and open data repositories.
 
-### Tools Used
-- Microsoft Excel  for Data Cleaning Analysis and Visualization [Download Here](https://canvas.instructure.com/courses/10186984/files/folder/Capstone%20Project)
+### Tools and Method Used
+- Microsoft Excel  The Data was analysis using Microsoft Excel, utilizing pivot table to organize, summarize , and filter the Data for easier interpretation [Download Here](https://canvas.instructure.com/courses/10186984/files/folder/Capstone%20Project)
 - SQL - Structured Query Language for Querying of Data
 - Power BI - For Visualization
 - GitHub for Portfolio Building
@@ -36,7 +36,7 @@ This project was designed to address the following Analysis goals;
 ### How To Used The Data
 - Revenue by Region: Group the Data by region and sum the revenue column, this provides overview of how much revenue each region is generating
 - Units Sold by Region: Group the Data by Region and sum the units sold to identify which regions are moving the most products
-- Average Revenue by Region:
+- Average Revenue by Region:Calculate the Average Revenue per sale in each region to access performance
 
 ### Data Cleaning and Preparation
 At the beginning of data cleaning and preparation, we carry out the following steps:
