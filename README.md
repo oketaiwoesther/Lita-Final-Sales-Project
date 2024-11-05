@@ -34,6 +34,9 @@ This project was designed to address the following Analysis goals;
 - Average Revenue: Calculated as Total Revenue/Tota Units sold for each region to measure the revenue efficiency
 
 ### How To Used The Data
+- Revenue by Region: Group the Data by region and sum the revenue column, this provides overview of how much revenue each region is generating
+- Units Sold by Region: Group the Data by Region and sum the units sold to identify which regions are moving the most products
+- Average Revenue by Region:
 
 ### Data Cleaning and Preparation
 At the beginning of data cleaning and preparation, we carry out the following steps:
