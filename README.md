@@ -27,18 +27,13 @@ This project was designed to address the following Analysis goals;
 10. Calculate the percentage of total sales contributed by each region.
 11. Identify products with no sales in the last quarter.
 12. Create a dashboard that visualizes the insights found in Excel and SQL. The dashboard should include a sales overview, top-performing products, and regional breakdowns.
-   
 
+### Key Metrics
+- Revenue: Some of the Revenue column group by Region
+- Unit Sold: Some of the Units sold grouped by region
+- Average Revenue: Calculated as Total Revenue/Tota Units sold for each region to measure the revenue efficiency
 
-
-
-
-
-
-
-
-
-
+### How To Used The Data
 
 ### Data Cleaning and Preparation
 At the beginning of data cleaning and preparation, we carry out the following steps:
@@ -46,18 +41,17 @@ At the beginning of data cleaning and preparation, we carry out the following st
 2. Handling missing variables
 3. Data Cleaning and formatting
 
-###Exploratory Data Analysis
-Exploratory Data Analysis (EDA) involves examining the data to address various questions, such as:
-What is overall Sales trend
-Which product are top sellers
-what are the Products on peak sales?
 
 ### Data Analysis
 This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
 
+### Formular Used
 ```SQL 
-SELECT * FROM TABLE 1
-WHERE CONDITION = TRUE
+SELECT TOP 5 [Customer_Id] , 
+       SUM([Revenue]) AS TotalPurchaseAmount
+FROM [dbo].[Lita Capstone_SalesData]
+GROUP BY [Customer_Id]
+ORDER BY TotalPurchaseAmount DESC;
 ```
 
 
