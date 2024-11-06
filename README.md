@@ -118,16 +118,13 @@ GROUP BY Product;
 This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
 
 ### Visual Analysis and inference
-![image](https://github.com/user-attachments/assets/79135e89-1db4-4398-bf0c-aed02bf0bc0c)
+![image](https://github.com/user-attachments/assets/7316dcdf-f885-4912-835b-bac685d5c191)
 
-![image](https://github.com/user-attachments/assets/dad4416b-e7ff-4a79-b25c-1c247bff0949)
-
+![image](https://github.com/user-attachments/assets/5e688b10-a3cb-4d6c-a4b9-2f6831abdce9)
 
 ![Excel screen1](https://github.com/user-attachments/assets/6a61df4c-5ed4-4a6f-9184-901805f6d872)
 
 ![Excel screen2](https://github.com/user-attachments/assets/82cd8062-4d1c-45f0-b5f5-4ea99a882fac)
-
-
 
 
 ![Sales Power bi short](https://github.com/user-attachments/assets/81209fef-c3d2-4a03-8765-e5b62cab0486)
