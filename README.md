@@ -40,7 +40,8 @@ At the beginning of data cleaning and preparation, we carry out the following st
 
 
 ### Formular Used
-```SELECT * FROM [dbo].[Lita Capstone_SalesData]
+```
+SELECT * FROM [dbo].[Lita Capstone_SalesData]
 
 ---The Total Sales for each product category.
 SELECT Product,
